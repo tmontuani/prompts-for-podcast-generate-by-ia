@@ -37,8 +37,8 @@ Utilizado uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via ChatGPT
 - Audio gerado pela ElevenLabs
-- LimeWire Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- LimeWire para gerar capas
+- Capcut para tratar áudio e adicionar sons de fundo
 
 
 
