@@ -1,10 +1,8 @@
 ## 🧠 Prompts
 
 
-ChatGPT：
+LimeWire：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um podcast sobre o tema IAs Generativas, o título deve ser curto e impactante, me liste 5 variações de títulos                                                        |
-| conteúdo | Comporte-se como um roteirista de podcast, crie um podcast de tecnologia, cujo nome é "Daily Tech" focado em IAs Generativas e sua influência na tecnologia moderna.  {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Não use muitos termos técnicos. Não ultrapasse 5 minutos de duração |
-
+| conteúdo | Generate a stylized high-resolution image of a female robot podcaster |
