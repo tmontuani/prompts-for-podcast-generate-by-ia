@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-    <audio src="https://github.com/tmontuani/prompts-for-podcast-generate-by-ia/blob/main/output/audio-editado.mp3" controls title="audio_editado"></audio>
+    <audio src="https://raw.githubusercontent.com/tmontuani/prompts-for-podcast-generate-by-ia/main/output/audio-editado.mp3" controls title="audio_editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
