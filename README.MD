@@ -8,10 +8,11 @@
 
 </a>
 </p>
-
-<p align="center">
-    preview do podcast
-</p>
+<a href="https://raw.githubusercontent.com/tmontuani/prompts-for-podcast-generate-by-ia/main/output/audio-editado.mp3"> 
+    <p align="center">
+        preview do podcast
+    </p>
+</a>
 
 <div align="center">
     <audio src="https://raw.githubusercontent.com/tmontuani/prompts-for-podcast-generate-by-ia/main/output/audio-editado.mp3" controls title="audio_editado"></audio>
